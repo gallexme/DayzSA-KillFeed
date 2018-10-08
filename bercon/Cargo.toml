@@ -1,0 +1,8 @@
+[package]
+name = "bercon"
+version = "0.1.0"
+authors = ["jan <jan@ruken.pw>"]
+
+[dependencies]
+crc = "1.8.1"
+crossbeam = "0.4.1"

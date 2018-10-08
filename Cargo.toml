@@ -1,0 +1,12 @@
+[package]
+name = "KillFeed"
+version = "0.1.0"
+authors = ["MisterOutofTime <lostchaos3@googlemail.com>"]
+
+[dependencies]
+bercon = {path= "bercon"}
+logwatcher = {path= "logwatcher"}
+regex = "1.0.5"
+crossbeam = "0.4.1"
+glob = "0.2"
+clap = "2.32"
