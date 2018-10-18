@@ -19,5 +19,5 @@ pub enum BECommand {
     MaxPing(u16),
     Logout,
     Exit,
-    Say(u16, String),
+    Say(i16, String),
 }
